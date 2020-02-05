@@ -1,13 +1,3 @@
-
-/*
-SimpleSlideShow
-by John E Maddox
-
-#slideShow > DIV background matches sDir and 1st element of sPics in js file.
-This ensures graceful degradation if javascript is not available.
-*/
-
-/* === slide show === */
 body {
     background-color: black;
 }
@@ -19,21 +9,25 @@ body {
     margin-top: 2%;
     margin-left: 2%;
     margin-right: 2%;
-
 }
+
 h1{
     color: white;
-    font-family: morion;
-    font-weight: regular;
-    }
+    font-family: georgia;
+    font-weight: italic;
+  }
 
 h3{
     color:white;
-    font-family: morion;
+    font-family: georgia;
     font-weight: regular;
-    line-height:140%;
-   
-}
+    line-height:140%; 
+  }
+
+a{
+    color:white;
+    text-decoration:none;
+ }
 
     p,
     h2,
