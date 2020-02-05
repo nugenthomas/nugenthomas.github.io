@@ -20,7 +20,7 @@ h1{
 
 h3{
     color:white;
-    font-family: georgia;
+    font-family: Baskerville;
     font-weight: normal;
     font-style:italic;
     line-height:140%; 
@@ -39,9 +39,7 @@ a{
     }
 
     h2,
-    h3 {
-        page-break-after: avoid;
-    }
+   
 
 #container {
     margin:100px auto;
