@@ -30,7 +30,9 @@ a{
     color:white;
     text-decoration:none;
  }
-
+a:hover{
+    text-decoration: underline;   
+}
     p,
     h2,
     h3 {
