@@ -1,0 +1,79 @@
+
+/*
+SimpleSlideShow
+by John E Maddox
+
+#slideShow > DIV background matches sDir and 1st element of sPics in js file.
+This ensures graceful degradation if javascript is not available.
+*/
+
+/* === slide show === */
+body {
+    background-color: black;
+}
+
+#about{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    grid-gap:5%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+h1{
+    color: white;
+    font-family: morion;
+    font-weight: regular;
+    }
+
+h3{
+    color:white;
+    font-family: morion;
+    font-weight: regular;
+    line-height:140%;
+   
+}
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+
+#container {
+    margin:100px auto;
+    max-width:600px;
+    max-height:600px;
+    
+}
+
+#slideShow {
+    border-radius: 35px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%; /* 100% can be used for responsive layout */
+    
+}
+
+#slideShow img {
+ border-radius: 35px;
+  width: 100%; /* set width in #slideShow */
+  height: auto;
+  display: block; /* removes gap at bottom of image */
+}
+
+#slideShow div {
+     border-radius: 35px;
+  background-color: rgba(0, 0, 0, 0.75);
+  position: relative;
+  padding: 10px;
+  bottom: 40px;
+  color:#fff;
+}
