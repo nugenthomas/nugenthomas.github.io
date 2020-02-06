@@ -28,7 +28,8 @@ body {
     }
 
     #container {
-        margin: 100px auto;
+        display: block;
+        margin: 6% auto;
         max-width: 600px;
         max-height: 600px;
     }
