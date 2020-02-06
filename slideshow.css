@@ -2,80 +2,103 @@ body {
     background-color: black;
 }
 
-#about{
-    display:grid;
-    grid-template-columns: auto auto auto;
-    grid-gap:5%;
-    margin-top: 2%;
-    margin-left: 2%;
-    margin-right: 2%;
+/* Extra small devices (phones, 740px and down) */
+@media only screen and (max-width: 740) {
+    #about {
+        margin-top: 2%;
+        margin-left: 2%;
+    }
+
+    #container {
+        margin: 100px auto;
+        max-width: 100%;
+        max-height: 100%;
+    }
 }
 
-h1{
+/* Medium devices (landscape tablets, 740px and up) */
+@media only screen and (min-width: 740px) {
+    #about {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 5%;
+        margin-top: 2%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    #container {
+        margin: 100px auto;
+        max-width: 600px;
+        max-height: 600px;
+    }
+}
+
+h1 {
     color: white;
     font-family: Baskerville;
     font-weight: normal;
     font-style: italic;
-  }
+}
 
-h3{
-    color:white;
+h3 {
+    color: white;
     font-family: Baskerville;
     font-weight: normal;
     font-style: normal;
-    line-height:140%; 
-  }
+    line-height: 130%;
 
-a{
-    color:white;
-    text-decoration:none;
- }
-a:hover{
-    text-decoration: underline;   
 }
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
 
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
-
-#container {
-    margin:100px auto;
-    max-width:600px;
-    max-height:600px;
-    
+a {
+    color: white;
+    text-decoration: none;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+p,
+h2,
+h3 {
+    orphans: 3;
+    widows: 3;
+}
+
+h2,
+h3 {
+    page-break-after: avoid;
+}
+
 
 #slideShow {
     border-radius: 35px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 100%; /* 100% can be used for responsive layout */
-    
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    /* 100% can be used for responsive layout */
+
 }
 
 #slideShow img {
- border-radius: 35px;
-  width: 100%; /* set width in #slideShow */
-  height: auto;
-  display: block; /* removes gap at bottom of image */
+    border-radius: 35px;
+    width: 100%;
+    /* set width in #slideShow */
+    height: auto;
+    display: block;
+    /* removes gap at bottom of image */
 }
 
 #slideShow div {
-     border-radius: 35px;
-  background-color: rgba(0, 0, 0, 0.75);
-  position: relative;
-  padding: 10px;
-  bottom: 40px;
-  color:#fff;
+    border-radius: 35px;
+    background-color: rgba(0, 0, 0, 0.75);
+    position: relative;
+    padding: 10px;
+    bottom: 40px;
+    color: #fff;
 }
-  
+
 @font-face {
     font-family: 'Baskerville';
     src: url('Baskerville.eot');
