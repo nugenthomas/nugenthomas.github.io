@@ -124,3 +124,7 @@ h3 {
     font-weight: normal;
     font-style: italic;
 }
+
+.custom-cur {
+  cursor: url('assets/Pointer-01.svg');
+}
