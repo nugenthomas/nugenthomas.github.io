@@ -1,8 +1,3 @@
-/*
-JQuery-Photo-Slideshow
-by John E Maddox
-*/
-
 var sPos = 0; // slideshow array position
 var sTime = 5000; // slide timer
 var sDir = 'slides/'; // photo directory

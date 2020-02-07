@@ -24,15 +24,11 @@
     "note": ""
   },
   {
-    "file": "Type.jpg",
-    "note": ""
-  },
-  {
     "file": "Type2.jpeg",
     "note": ""
   },
   {
-    "file": "WIG.gif",
+    "file": "WIG2.jpg",
     "note": ""
   },
   {
@@ -43,16 +39,8 @@
     "file": "BreadButter2.jpg",
     "note": ""
   },
-  {
-    "file": "BreadButter3.jpg",
-    "note": ""
-  },
  {
-    "file": "Chocolate.jpeg",
-    "note": ""
-  },
- {
-    "file": "Chocolate2.jpeg",
+    "file": "Chocolate2.jpg",
     "note": ""
   },
  {
@@ -68,15 +56,11 @@
     "note": ""
   },
  {
-    "file": "DuoBook2.jpg",
-    "note": ""
-  },
- {
     "file": "Maggi.jpg",
     "note": ""
   },
  {
-    "file": "Maggi2.jpg",
+    "file": "Maggi2.jpeg",
     "note": ""
   },
  {
@@ -99,7 +83,11 @@
     "file": "Fun5.jpg",
     "note": ""
   }
-
+,
+ {
+    "file": "Fun6.gif",
+    "note": ""
+  }
 
 
 
