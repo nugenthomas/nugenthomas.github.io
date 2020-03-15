@@ -1,5 +1,6 @@
 body {
     background-color: black;
+      cursor: url("assets/Pointer-01.svg"), auto;
 }
 
 /* Extra small devices (phones, 740px and down) */
@@ -125,6 +126,3 @@ h3 {
     font-style: italic;
 }
 
-.custom-cur {
-  cursor: url('assets/Pointer-01.svg');
-}
