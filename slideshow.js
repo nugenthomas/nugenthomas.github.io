@@ -1,5 +1,5 @@
 var sPos = 0; // slideshow array position
-var sTime = 5000; // slide timer
+var sTime = 2000; // slide timer
 var sDir = 'slides/'; // photo directory
 var sTarget = '#slideShow'; // target element
 

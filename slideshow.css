@@ -1,6 +1,7 @@
 body {
     background-color: black;
-      cursor: url("assets/Pointer-01.svg"), auto;
+    cursor: url("assets/Pointer-01.svg"), auto;
+    overflow: hidden;
 }
 
 /* Extra small devices (phones, 740px and down) */
@@ -24,7 +25,7 @@ body {
 @media only screen and (min-width: 740px) {
     #about {
         display: grid;
-        grid-template-columns: auto auto auto;
+        grid-template-columns: auto auto 20%;
         grid-gap: 5%;
         margin-left: 2%;
         margin-right: 2%;
@@ -81,7 +82,7 @@ h3 {
 
 
 #slideShow {
-    border-radius: 35px;
+    border-radius: 60px;
     background-size: cover; 
     background-repeat: no-repeat;
     width: 100%;
@@ -90,22 +91,11 @@ h3 {
 }
 
 #slideShow img {
-    border-radius: 35px;
+    border-radius: 60px;
     width: 100%;
     /* set width in #slideShow */
     height: auto;
     display: block;
-
-    /* removes gap at bottom of image */
-}
-
-#slideShow div {
-    border-radius: 35px;
-    background-color: rgba(0, 0, 0, 0.75);
-    position: relative;
-    padding-left: 0px;
-    padding-right: 0px;
-    color: #fff;
 }
 
 @font-face {
