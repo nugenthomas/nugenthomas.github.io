@@ -6,7 +6,6 @@ body {
 /* Extra small devices (phones, 740px and down) */
 @media only screen and (max-width: 740) {
     #about {
-        margin-top: 2%;
         margin-left: 2%;
     }
 
@@ -27,20 +26,18 @@ body {
         display: grid;
         grid-template-columns: auto auto auto;
         grid-gap: 5%;
-        margin-top: 2%;
         margin-left: 2%;
         margin-right: 2%;
     }
 
     #container {
         display: block;
-        margin: 6% auto;
+        margin: 5% auto;
         max-width: 50%;
         max-height: 50%;
     }
     
     #footer{
-        margin-top:2%;
         margin-left: 2%;
     }
 }
