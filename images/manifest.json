@@ -1,0 +1,1040 @@
+{
+  "about": [
+    {
+      "block_id": "block-yui_3_17_2_1_1599503075223_10032",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1599503128167-LW1CPXXZ6241F4MG2ZHN/image-asset.jpeg?format=original",
+      "dest_path": "about/1599503128167-LW1CPXXZ6241F4MG2ZHN-image-asset.jpeg",
+      "variant": "original"
+    }
+  ],
+  "brand": [],
+  "catapult": [
+    {
+      "block_id": "block-yui_3_17_2_1_1615221992025_31652",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615832783847-4TUC5BNQBLDQENU7V62W/1.jpg?format=original",
+      "dest_path": "catapult/1615832783847-4TUC5BNQBLDQENU7V62W-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615221992025_48327",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615832845831-06TUNH590GE441Q92BDL/1.jpg?format=original",
+      "dest_path": "catapult/1615832845831-06TUNH590GE441Q92BDL-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616094409724_26847",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616096071415-3IMTSNXNQ4R2A91SCZ0Q/Frame+933.jpg?format=original",
+      "dest_path": "catapult/1616096071415-3IMTSNXNQ4R2A91SCZ0Q-Frame+933.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615221992025_59250",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616096252388-7E37BZ6MMU4RDXOCA7O7/1.jpg?format=original",
+      "dest_path": "catapult/1616096252388-7E37BZ6MMU4RDXOCA7O7-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615225876813_14536",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615225957914-ABYE7M4LPY7E9RMJ661I/Artboard.jpg?format=original",
+      "dest_path": "catapult/1615225957914-ABYE7M4LPY7E9RMJ661I-Artboard.jpg",
+      "variant": "original"
+    }
+  ],
+  "eclectic": [
+    {
+      "block_id": "block-yui_3_17_2_1_1525721471672_9170",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525722072497-TTN3TJ5JEXEATFN14232/Stationery-Mockup.jpg?format=original",
+      "dest_path": "eclectic/1525722072497-TTN3TJ5JEXEATFN14232-Stationery-Mockup.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525721471672_10640",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525722136911-7HXKHFM2HNJ4QSNW8SML/businesscardv.2.jpg?format=original",
+      "dest_path": "eclectic/1525722136911-7HXKHFM2HNJ4QSNW8SML-businesscardv.2.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525719293563_6543",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525720749429-DDBW66H0J336WMOHCS2F/brushinviation.jpg?format=original",
+      "dest_path": "eclectic/1525720749429-DDBW66H0J336WMOHCS2F-brushinviation.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525720264303_8045",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525721032529-IT0NKWTGY4PH1CDK5C8Y/ClothingforHeoroesV.2.jpg?format=original",
+      "dest_path": "eclectic/1525721032529-IT0NKWTGY4PH1CDK5C8Y-ClothingforHeoroesV.2.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525720264303_23975",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525721233337-7248JSQEB23LJLX5ED5F/Modernboogie.jpg?format=original",
+      "dest_path": "eclectic/1525721233337-7248JSQEB23LJLX5ED5F-Modernboogie.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525723866656_17949",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525723989381-3W985AR545YRW3YKOYFU/pin.jpg?format=original",
+      "dest_path": "eclectic/1525723989381-3W985AR545YRW3YKOYFU-pin.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525723866656_11355",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525724501848-0HRXBRRL0ALHVDXRSH8N/totefinalv.2.jpg?format=original",
+      "dest_path": "eclectic/1525724501848-0HRXBRRL0ALHVDXRSH8N-totefinalv.2.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527712429290_14749",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527712758436-SQ8IL360Q57LBDJE257L/image-asset.jpeg?format=original",
+      "dest_path": "eclectic/1527712758436-SQ8IL360Q57LBDJE257L-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527712429290_16252",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527712771170-ALP2SA1FE4L4ZBL9HDX2/image-asset.jpeg?format=original",
+      "dest_path": "eclectic/1527712771170-ALP2SA1FE4L4ZBL9HDX2-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527884491860_16500",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527884617614-TV2RNGRHXWED7L67DPPJ/image-asset.jpeg?format=original",
+      "dest_path": "eclectic/1527884617614-TV2RNGRHXWED7L67DPPJ-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525723866656_13360",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525723942448-L1AXQTZW0F3T8T70G5HY/Polo.jpg?format=original",
+      "dest_path": "eclectic/1525723942448-L1AXQTZW0F3T8T70G5HY-Polo.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525639096282_7605",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525643760229-VIEKP7WBPT7YXPIGEW53/Program-Layout.jpg?format=original",
+      "dest_path": "eclectic/1525643760229-VIEKP7WBPT7YXPIGEW53-Program-Layout.jpg",
+      "variant": "original"
+    }
+  ],
+  "etcetera": [
+    {
+      "block_id": "block-yui_3_17_2_1_1527734618096_76645",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527737078199-CFT4MLCYNZ7DGK2NUXJ8/image-asset.png?format=original",
+      "dest_path": "etcetera/1527737078199-CFT4MLCYNZ7DGK2NUXJ8-image-asset.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527734618096_79108",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527737104753-365PG9Y5JZR0X0T0V5KF/Screen-Shot-2018-05-30-at-11.00.23-PM.jpg?format=original",
+      "dest_path": "etcetera/1527737104753-365PG9Y5JZR0X0T0V5KF-Screen-Shot-2018-05-30-at-11.00.23-PM.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527734618096_75185",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527737063176-9D4M05DZIX8DQW3SJW3N/Screen-Shot-2018-05-30-at-11.01.00-PM.jpg?format=original",
+      "dest_path": "etcetera/1527737063176-9D4M05DZIX8DQW3SJW3N-Screen-Shot-2018-05-30-at-11.01.00-PM.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1531088710746_21086",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1531089433490-B1YMGJ42NC8L7V6RCVTF/leicachitown8.jpg?format=original",
+      "dest_path": "etcetera/1531089433490-B1YMGJ42NC8L7V6RCVTF-leicachitown8.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1531088710746_24111",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1531088755733-DLXI4L0OZPR7X2B1QFOV/image-asset.jpeg?format=original",
+      "dest_path": "etcetera/1531088755733-DLXI4L0OZPR7X2B1QFOV-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527714324014_13117",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527714351347-IR16993KD9TWRZF2YJV5/image-asset.gif?format=original",
+      "dest_path": "etcetera/1527714351347-IR16993KD9TWRZF2YJV5-image-asset.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527714324014_14534",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527714370307-KE0T657IC2S1VAG9P3TI/tennis.gif?format=original",
+      "dest_path": "etcetera/1527714370307-KE0T657IC2S1VAG9P3TI-tennis.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1531088710746_65987",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1531091287745-4G6YM4F1BZ5GM190TFSE/image-asset.jpeg?format=original",
+      "dest_path": "etcetera/1531091287745-4G6YM4F1BZ5GM190TFSE-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1531088710746_63077",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1531108863846-P6W7CRA4Z4PL09AP0QN0/sweatshirtlow.jpg?format=original",
+      "dest_path": "etcetera/1531108863846-P6W7CRA4Z4PL09AP0QN0-sweatshirtlow.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_3719",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526878461417-1L2SCLI77KMJI0VAIJ4C/deepincrib",
+      "dest_path": "etcetera/1526878461417-1L2SCLI77KMJI0VAIJ4C-deepincrib",
+      "variant": "base"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_5054",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526878482680-Y36C7M5G9E5I9K43LDG2/NUGENCO3.png?format=original",
+      "dest_path": "etcetera/1526878482680-Y36C7M5G9E5I9K43LDG2-NUGENCO3.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_32879",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526880471849-9M0XE59VL7MQ6QGS4JM8/Asset+2@300x-100.jpg?format=original",
+      "dest_path": "etcetera/1526880471849-9M0XE59VL7MQ6QGS4JM8-Asset+2@300x-100.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_26519",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526879857369-AMWZD57O466NC8XHSENE/Asset+1@300x-100.jpg?format=original",
+      "dest_path": "etcetera/1526879857369-AMWZD57O466NC8XHSENE-Asset+1@300x-100.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_34797",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526879963679-DPR9YAZDJ0XL8J285Y1E/image-asset.jpeg?format=original",
+      "dest_path": "etcetera/1526879963679-DPR9YAZDJ0XL8J285Y1E-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_43648",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526880058520-MO1UC9N4UNDHJMUEV4GW/Asset+9@300x-100.jpg?format=original",
+      "dest_path": "etcetera/1526880058520-MO1UC9N4UNDHJMUEV4GW-Asset+9@300x-100.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_41198",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526880034348-8PXH1L1OOWHQDBEVYCR8/image-asset.jpeg?format=original",
+      "dest_path": "etcetera/1526880034348-8PXH1L1OOWHQDBEVYCR8-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526878444712_39162",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526880003968-4BOEH3AU2A0ERGM99NMX/image-asset.jpeg?format=original",
+      "dest_path": "etcetera/1526880003968-4BOEH3AU2A0ERGM99NMX-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1529874574263_19522",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529874596783-VW3KVIDHZH0M8M305W92/Type+Production+Gone+Mad.gif?format=original",
+      "dest_path": "etcetera/1529874596783-VW3KVIDHZH0M8M305W92-Type+Production+Gone+Mad.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1529874574263_43968",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529874832005-M060RZSC8UNE4552I87B/OnlyWebBrowser.jpg?format=original",
+      "dest_path": "etcetera/1529874832005-M060RZSC8UNE4552I87B-OnlyWebBrowser.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1527737577651_32268",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527738787362-A9GCWIFVSLRPIPP50FOQ/ManifestoCover2.jpg?format=original",
+      "dest_path": "etcetera/1527738787362-A9GCWIFVSLRPIPP50FOQ-ManifestoCover2.jpg",
+      "variant": "original"
+    }
+  ],
+  "etsy-buyer-trust-landing-page": [
+    {
+      "block_id": "block-4de7add6d6574aee1fc4",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598288501512-HY6GG8EVLKT3PFO5ZOES/Personas.jpg?format=original",
+      "dest_path": "etsy-buyer-trust-landing-page/1598288501512-HY6GG8EVLKT3PFO5ZOES-Personas.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616096341596_52706",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616170726024-80V56TW5D9YND0RVX97X/Frame+800.jpg?format=original",
+      "dest_path": "etsy-buyer-trust-landing-page/1616170726024-80V56TW5D9YND0RVX97X-Frame+800.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616156251884_25794",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616158623892-3DTX8APKO9BMKOX74VDL/Frame+799-2.jpg?format=original",
+      "dest_path": "etsy-buyer-trust-landing-page/1616158623892-3DTX8APKO9BMKOX74VDL-Frame+799-2.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-bad86db33d7aac06b257",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598288448237-GQO1LHP3PD1EZKJAQ44A/RootsThumb.jpg?format=original",
+      "dest_path": "etsy-buyer-trust-landing-page/1598288448237-GQO1LHP3PD1EZKJAQ44A-RootsThumb.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616170788032_20316",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616171711730-R3QYISLANOJG07OHPQ4B/1.jpg?format=original",
+      "dest_path": "etsy-buyer-trust-landing-page/1616171711730-R3QYISLANOJG07OHPQ4B-1.jpg",
+      "variant": "original"
+    }
+  ],
+  "etsy-design-awards-2020": [
+    {
+      "block_id": "block-yui_3_17_2_1_1600272742271_11385",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1600272771181-WKGUZZ078DECH3Q11S1C/SiteMap.jpg?format=original",
+      "dest_path": "etsy-design-awards-2020/1600272771181-WKGUZZ078DECH3Q11S1C-SiteMap.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1609362839779_20283",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1609363635603-J59KB1VL805Q39E6EOFF/image-asset.jpeg?format=original",
+      "dest_path": "etsy-design-awards-2020/1609363635603-J59KB1VL805Q39E6EOFF-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1609362839779_39828",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1609363725782-HMVA3O5BX13VAM57VYQY/image-asset.jpeg?format=original",
+      "dest_path": "etsy-design-awards-2020/1609363725782-HMVA3O5BX13VAM57VYQY-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1609362839779_22851",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1609363657171-XELNRVBUVTDG8YLK8EGL/image-asset.jpeg?format=original",
+      "dest_path": "etsy-design-awards-2020/1609363657171-XELNRVBUVTDG8YLK8EGL-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1609362839779_34403",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1609363705383-2Y8WC1WW08YPVEO45V56/image-asset.jpeg?format=original",
+      "dest_path": "etsy-design-awards-2020/1609363705383-2Y8WC1WW08YPVEO45V56-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1618930015157_21101",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1618930781820-Q6U8T85W46K9IGQZ9UMN/ImpactEDA.jpg?format=original",
+      "dest_path": "etsy-design-awards-2020/1618930781820-Q6U8T85W46K9IGQZ9UMN-ImpactEDA.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1609362839779_16772",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1609363591903-00MI6ZWTRZG35ZK362XA/image-asset.jpeg?format=original",
+      "dest_path": "etsy-design-awards-2020/1609363591903-00MI6ZWTRZG35ZK362XA-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-adbd832b5f4caac503c4",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1600130915601-WVLMNLUAD4DZ74H6WBPV/HomePageShowcase.jpg?format=original",
+      "dest_path": "etsy-design-awards-2020/1600130915601-WVLMNLUAD4DZ74H6WBPV-HomePageShowcase.jpg",
+      "variant": "original"
+    }
+  ],
+  "etsy-making-holiday-magic": [
+    {
+      "block_id": "block-yui_3_17_2_1_1546162646564_8928",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1546162696817-OHVAGSYSM3M5JBWSXTU5/image-asset.jpeg?format=original",
+      "dest_path": "etsy-making-holiday-magic/1546162696817-OHVAGSYSM3M5JBWSXTU5-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1545415199872_10243",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1545415344358-6GNFS1PZYDT176ZQFNMF/image-asset.gif?format=original",
+      "dest_path": "etsy-making-holiday-magic/1545415344358-6GNFS1PZYDT176ZQFNMF-image-asset.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1545415199872_11404",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1545415360251-4KOQGFFDESUSQK00XKS0/image-asset.gif?format=original",
+      "dest_path": "etsy-making-holiday-magic/1545415360251-4KOQGFFDESUSQK00XKS0-image-asset.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1546973945847_34252",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1546974794301-H13PLNWUEW91T91I70X6/Untitled-1.gif?format=original",
+      "dest_path": "etsy-making-holiday-magic/1546974794301-H13PLNWUEW91T91I70X6-Untitled-1.gif",
+      "variant": "original"
+    }
+  ],
+  "etsy-year-in-review-2019": [
+    {
+      "block_id": "block-03d59e496b9355a65f75",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598289471006-NJDDSBS1VKQWZQPCFD64/Result.jpg?format=original",
+      "dest_path": "etsy-year-in-review-2019/1598289471006-NJDDSBS1VKQWZQPCFD64-Result.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-df5ba78112006e3dc73e",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598290229324-WV308FHDZ1RVDSZXBCVD/ChannelsMarketing_YIR.jpg?format=original",
+      "dest_path": "etsy-year-in-review-2019/1598290229324-WV308FHDZ1RVDSZXBCVD-ChannelsMarketing_YIR.jpg",
+      "variant": "original"
+    }
+  ],
+  "index": [],
+  "instamo": [
+    {
+      "block_id": "block-4487bc75e451b3ba6698",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598294557263-25TWYNOO451CXNTOZGNL/PersonasGif.gif?format=original",
+      "dest_path": "instamo/1598294557263-25TWYNOO451CXNTOZGNL-PersonasGif.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616270926239_46104",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616277678700-6DMCZMN55D1TOBGS1EAG/1.jpg?format=original",
+      "dest_path": "instamo/1616277678700-6DMCZMN55D1TOBGS1EAG-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616270926239_71322",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616284101312-59MPBZW1DGPYOPSQ8E6R/Frame+10.jpg?format=original",
+      "dest_path": "instamo/1616284101312-59MPBZW1DGPYOPSQ8E6R-Frame+10.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598292576482_12653",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598292706508-DWV0VEFUU8QR4PBBMKLG/image-asset.jpeg?format=original",
+      "dest_path": "instamo/1598292706508-DWV0VEFUU8QR4PBBMKLG-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598292576482_14287",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598292715694-4JTWS1EL5VWH3ZMQO3BT/image-asset.jpeg?format=original",
+      "dest_path": "instamo/1598292715694-4JTWS1EL5VWH3ZMQO3BT-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616254069195_25306",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616260220531-60G8KMMJCJK951Z3BMV3/1.jpg?format=original",
+      "dest_path": "instamo/1616260220531-60G8KMMJCJK951Z3BMV3-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-2aaec8bc2c9831b119b6",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598287751414-CSDN9S76BXEJ3KE92PUJ/Bookmark.jpg?format=original",
+      "dest_path": "instamo/1598287751414-CSDN9S76BXEJ3KE92PUJ-Bookmark.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-59dd670472bd9641bd0d",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598287663501-VRS92ZHVHMQ3L6EFGVM4/Manifesto-Page-Previewv.2.jpg?format=original",
+      "dest_path": "instamo/1598287663501-VRS92ZHVHMQ3L6EFGVM4-Manifesto-Page-Previewv.2.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-188bb2cae2610c25ffa6",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598287562860-MSF2EVXO8UX2WRLDRM8E/Mockup-Posterv.2.jpg?format=original",
+      "dest_path": "instamo/1598287562860-MSF2EVXO8UX2WRLDRM8E-Mockup-Posterv.2.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616254069195_116568",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616267704863-7RLWMAV46XNHOWLHMA51/Frame+8.jpg?format=original",
+      "dest_path": "instamo/1616267704863-7RLWMAV46XNHOWLHMA51-Frame+8.jpg",
+      "variant": "original"
+    }
+  ],
+  "kamekura": [
+    {
+      "block_id": "block-fe9a1c1c42b1621f3c2d",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529653486778-D6EA07BBJVDG5HJ79GP8/page5-01.png?format=original",
+      "dest_path": "kamekura/1529653486778-D6EA07BBJVDG5HJ79GP8-page5-01.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-ed5e34bf68bd11f61799",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529653497862-UY3OU16Q6GZOVMGPOS0S/6.jpg?format=original",
+      "dest_path": "kamekura/1529653497862-UY3OU16Q6GZOVMGPOS0S-6.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1529653344723_22450",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529653558689-MXEGCHZS8F92EZNUZWKI/image-asset.jpeg?format=original",
+      "dest_path": "kamekura/1529653558689-MXEGCHZS8F92EZNUZWKI-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-f5032fa076f67269ecbe",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529653451608-NYPVC1MIA0KXK0KO0OZZ/page3-01.png?format=original",
+      "dest_path": "kamekura/1529653451608-NYPVC1MIA0KXK0KO0OZZ-page3-01.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-ee63ee79a6fd2a6d99cb",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529654341889-S3H3RDZZ683FW94HAB4N/posters.jpg?format=original",
+      "dest_path": "kamekura/1529654341889-S3H3RDZZ683FW94HAB4N-posters.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-8f3a44beb6affde2269b",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1529653402731-WVD4H8K2P7EWZS5M8TOG/Posters7.jpg?format=original",
+      "dest_path": "kamekura/1529653402731-WVD4H8K2P7EWZS5M8TOG-Posters7.jpg",
+      "variant": "original"
+    }
+  ],
+  "maggi-arome": [
+    {
+      "block_id": "block-7b88af3aa2cfd77f0bcd",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1530152302749-SKG4QMHH5Z3QW9JOB96L/page5-01.png?format=original",
+      "dest_path": "maggi-arome/1530152302749-SKG4QMHH5Z3QW9JOB96L-page5-01.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-b91e4bd0a2b3ffe5deb1",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1530152270736-21G4FQ6R732UUZW8SRRI/labelscramble.jpg?format=original",
+      "dest_path": "maggi-arome/1530152270736-21G4FQ6R732UUZW8SRRI-labelscramble.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-50f4a5ae3aeb2f92dba3",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1530152247296-PR5T5FBV5YQ2942M3VIR/threebottles",
+      "dest_path": "maggi-arome/1530152247296-PR5T5FBV5YQ2942M3VIR-threebottles",
+      "variant": "base"
+    }
+  ],
+  "nugen-chocolate": [
+    {
+      "block_id": "block-dbd2232e05b182ce07e9",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527781890091-V26X2E4C9BXSVFCFYTTF/IMG_2037.jpg?format=original",
+      "dest_path": "nugen-chocolate/1527781890091-V26X2E4C9BXSVFCFYTTF-IMG_2037.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-e3a19a494458bfc8f63d",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527782227494-MJJ6ENNFR4XIQWFAHY19/page5-01.png?format=original",
+      "dest_path": "nugen-chocolate/1527782227494-MJJ6ENNFR4XIQWFAHY19-page5-01.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-f7f69c612f0b9622c6b7",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527781872784-V2ND58BSX9B45MQ59SWB/Title+Page",
+      "dest_path": "nugen-chocolate/1527781872784-V2ND58BSX9B45MQ59SWB-Title+Page",
+      "variant": "base"
+    },
+    {
+      "block_id": "block-a9269da7fd9e6cd6db33",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527782099613-AWIS63GFEHO4EBGNCW18/Untitled-4-01.png?format=original",
+      "dest_path": "nugen-chocolate/1527782099613-AWIS63GFEHO4EBGNCW18-Untitled-4-01.png",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-209946951c8965018fb9",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1527782468490-PK9S8TMRW3JDKLBX7VOX/Chocolate1",
+      "dest_path": "nugen-chocolate/1527782468490-PK9S8TMRW3JDKLBX7VOX-Chocolate1",
+      "variant": "base"
+    }
+  ],
+  "nugen-fragrance": [
+    {
+      "block_id": "block-8c6d59ea99cbb133bb03",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526852734676-U5WZZVPQLII9MBXX8JXT/Packaging.jpg?format=original",
+      "dest_path": "nugen-fragrance/1526852734676-U5WZZVPQLII9MBXX8JXT-Packaging.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-3f756bbacc079e79166c",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526830948282-DB2E6K9U3LCEM3KQQOO1/Bag.jpg?format=original",
+      "dest_path": "nugen-fragrance/1526830948282-DB2E6K9U3LCEM3KQQOO1-Bag.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-97500877cbdbf2b0a60c",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526830702893-JM6T8H46Z91WVTK0KMD3/tag.jpg?format=original",
+      "dest_path": "nugen-fragrance/1526830702893-JM6T8H46Z91WVTK0KMD3-tag.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526830535980_26101",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526852986843-SY4UIY6RBNHZ24SDIM61/Bottle-Opens.jpg?format=original",
+      "dest_path": "nugen-fragrance/1526852986843-SY4UIY6RBNHZ24SDIM61-Bottle-Opens.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-10571f39590e93eca073",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1526831894293-I7PW7ZYKEF1RFKUVYPSH/Bottle-withhangtag.jpg?format=original",
+      "dest_path": "nugen-fragrance/1526831894293-I7PW7ZYKEF1RFKUVYPSH-Bottle-withhangtag.jpg",
+      "variant": "original"
+    }
+  ],
+  "revamping-experiment-result-table": [
+    {
+      "block_id": "block-yui_3_17_2_1_1618933197278_25340",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1618934257344-Q135W8AF8Y6VSZBQT3FM/Frame+1006.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1618934257344-Q135W8AF8Y6VSZBQT3FM-Frame+1006.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-cf5065301f2afe91826f",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619101803954-OVCRPDCHGLDX3FOW9XX9/Frame+1018.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619101803954-OVCRPDCHGLDX3FOW9XX9-Frame+1018.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1619101768251_22593",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619102085674-3UB9248H8ZEH7MFWO5CV/Frame+1019.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619102085674-3UB9248H8ZEH7MFWO5CV-Frame+1019.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1619101768251_62315",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619102960987-YDIOSP6JVJFY9CG691DF/Frame+1023.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619102960987-YDIOSP6JVJFY9CG691DF-Frame+1023.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-db9d7358c21d3627e77d",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619103106780-5C8EO90BN6DK62GHJETM/Frame+1013.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619103106780-5C8EO90BN6DK62GHJETM-Frame+1013.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1619101768251_113000",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619191834058-T6NRD4QF204P4RN1P75J/Frame+1026.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619191834058-T6NRD4QF204P4RN1P75J-Frame+1026.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-27162c628705c4e150eb",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619104024678-5XW3J836G6ZFV5GVLN8Y/Frame+1024.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619104024678-5XW3J836G6ZFV5GVLN8Y-Frame+1024.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1619101768251_38935",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1619102341197-ZB0CXC6L3Q7R8LHEUWM0/Frame+944.jpg?format=original",
+      "dest_path": "revamping-experiment-result-table/1619102341197-ZB0CXC6L3Q7R8LHEUWM0-Frame+944.jpg",
+      "variant": "original"
+    }
+  ],
+  "roots-contemporary-csa-1": [
+    {
+      "block_id": "block-yui_3_17_2_1_1598284082066_171235",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598285669025-N3I7U9GSGYF69ML20ATP/image-asset.jpeg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598285669025-N3I7U9GSGYF69ML20ATP-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598284082066_213890",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598286647067-7RY8OKVJ19BD02IVUMFV/Checkout_Roots.jpg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598286647067-7RY8OKVJ19BD02IVUMFV-Checkout_Roots.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598284082066_156473",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598285404606-IH6HB3IGW0I420XD9MTB/image-asset.jpeg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598285404606-IH6HB3IGW0I420XD9MTB-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598284082066_135415",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598285274019-4HIBO26ZWOXN0HDR7J8V/PhotoStrategy_Roots.jpg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598285274019-4HIBO26ZWOXN0HDR7J8V-PhotoStrategy_Roots.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598284082066_90241",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598284898438-YZ3D42J7DEKP19TWWPBI/image-asset.jpeg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598284898438-YZ3D42J7DEKP19TWWPBI-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1598284082066_62689",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598285234757-L4LF7PQRVG4966BNHUXO/image-asset.jpeg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598285234757-L4LF7PQRVG4966BNHUXO-image-asset.jpeg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1526050373159_6618",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598294387962-EPLOCSY0Q7TYDUQ2D8VS/UserResearch_Roots.jpg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598294387962-EPLOCSY0Q7TYDUQ2D8VS-UserResearch_Roots.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-bc37013a36b9bc362490",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1598284139045-9FGZP64H6YFAYVIZ9Q4W/RootsThumb.jpg?format=original",
+      "dest_path": "roots-contemporary-csa-1/1598284139045-9FGZP64H6YFAYVIZ9Q4W-RootsThumb.jpg",
+      "variant": "original"
+    }
+  ],
+  "sell-on-etsy-statistic-north-star": [
+    {
+      "block_id": "block-yui_3_17_2_1_1615895855241_49845",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615915873567-752JE7ZE9AEYE8P5KJQH/Frame+2170.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1615915873567-752JE7ZE9AEYE8P5KJQH-Frame+2170.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615915771945_27680",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615915805464-0V578KGIO954MRVZOQHL/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1615915805464-0V578KGIO954MRVZOQHL-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-0ca1972e0fd0a23c2a02",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615916613035-E4GT8KFZ9HLTKQWFNWKC/Frame+2197.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1615916613035-E4GT8KFZ9HLTKQWFNWKC-Frame+2197.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616345454746_112198",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616347674427-QXPHYM1JEIM56EG4RJMR/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1616347674427-QXPHYM1JEIM56EG4RJMR-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616345454746_143104",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616348169844-58BDB1D1G2431UT4LMYA/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1616348169844-58BDB1D1G2431UT4LMYA-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615915771945_63554",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615928471891-3IU6MJ5XV41Y7E5UOUYI/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1615928471891-3IU6MJ5XV41Y7E5UOUYI-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-3e5dd1262b79e88dbfdd",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615927606217-C0FD3MDQ4VEGBZT5P0TZ/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1615927606217-C0FD3MDQ4VEGBZT5P0TZ-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615915771945_160662",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615930234899-DRANZXRK7SBNYE09HJS8/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1615930234899-DRANZXRK7SBNYE09HJS8-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616345454746_80562",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616346653860-OX9NMSOP7NKQDNKANI5G/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1616346653860-OX9NMSOP7NKQDNKANI5G-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1616345454746_37827",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616345620615-CPRBYZ43K4KNP8P5LOZ5/1.jpg?format=original",
+      "dest_path": "sell-on-etsy-statistic-north-star/1616345620615-CPRBYZ43K4KNP8P5LOZ5-1.jpg",
+      "variant": "original"
+    }
+  ],
+  "sell-on-etsy": [
+    {
+      "block_id": "block-yui_3_17_2_1_1615887918249_37239",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1616461757457-HV80VA35LSS98CUPQZ06/1.jpg?format=original",
+      "dest_path": "sell-on-etsy/1616461757457-HV80VA35LSS98CUPQZ06-1.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615887918249_24767",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615888254239-30J9Q53QUUVPZ9NLX3N5/Add+private+note.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615888254239-30J9Q53QUUVPZ9NLX3N5-Add+private+note.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-206fd8fdff71ca9a8f74",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615888237885-QQ015MEZI6Y1VG8O91TH/Edit+private+note.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615888237885-QQ015MEZI6Y1VG8O91TH-Edit+private+note.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615887918249_43412",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615888448222-27VHEAOFYGXMCDHKH0S4/Frame+2036.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615888448222-27VHEAOFYGXMCDHKH0S4-Frame+2036.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615887918249_56073",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615890425322-VF5K2DQEEXH1EXN9RIFL/Frame+2168.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615890425322-VF5K2DQEEXH1EXN9RIFL-Frame+2168.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-01ec81d49abf583208e1",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615890876737-Q70XCSMSZZX05KMCETO5/Frame+2160.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615890876737-Q70XCSMSZZX05KMCETO5-Frame+2160.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615887918249_81684",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615890892028-2WLGDC88STWQ4IDMFU46/Frame+2039.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615890892028-2WLGDC88STWQ4IDMFU46-Frame+2039.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1615887918249_101473",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615890909490-JON9LZI4NJHCVVFU2KW8/Frame+2157.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615890909490-JON9LZI4NJHCVVFU2KW8-Frame+2157.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-497dc107f095eb8224fb",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1615888396266-0OK4ZNVGB28FBORFVOCQ/Frame+2035.jpg?format=original",
+      "dest_path": "sell-on-etsy/1615888396266-0OK4ZNVGB28FBORFVOCQ-Frame+2035.jpg",
+      "variant": "original"
+    }
+  ],
+  "women-in-graphic-design": [
+    {
+      "block_id": "block-85e81073bddfaa0dd797",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525616272889-0017TO8JVTT7XESPDL1A/image-asset.gif?format=original",
+      "dest_path": "women-in-graphic-design/1525616272889-0017TO8JVTT7XESPDL1A-image-asset.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-7703e899dfd23dc5034d",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525616301404-J4ZF4W3SL8NLATN4G1EC/iPhone-5S-3-colors-Mock-up.gif?format=original",
+      "dest_path": "women-in-graphic-design/1525616301404-J4ZF4W3SL8NLATN4G1EC-iPhone-5S-3-colors-Mock-up.gif",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-c326f29aa7068ff8db2e",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525616188462-9MG3ID7TFBX8SUEDUZKH/Mockup+Ads.jpg?format=original",
+      "dest_path": "women-in-graphic-design/1525616188462-9MG3ID7TFBX8SUEDUZKH-Mockup+Ads.jpg",
+      "variant": "original"
+    },
+    {
+      "block_id": "block-yui_3_17_2_1_1525616394426_9511",
+      "block_type": "image",
+      "alt": null,
+      "source_path": "content/v1/55240e2de4b0c8f3afe1bc78/1525616434583-NGI26EERPN240KQOWDQ0/Poster-GIf.gif?format=original",
+      "dest_path": "women-in-graphic-design/1525616434583-NGI26EERPN240KQOWDQ0-Poster-GIf.gif",
+      "variant": "original"
+    }
+  ]
+}
